@@ -1,0 +1,11 @@
+# ==========================
+# Resume Analyzer Configuration
+# ==========================
+
+# Application information
+app.name=Resume Analyzer
+app.version=1.0
+
+# Other non-sensitive configs can go here
+# Do NOT put your real API key here
+# Use environment variable GROQ_API_KEY instead
